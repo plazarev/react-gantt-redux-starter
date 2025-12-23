@@ -1,6 +1,11 @@
 # DHTMLX React Gantt Redux Toolkit
 
-This project demonstrates how to integrate the DHTMLX React Gantt component with Redux Toolkit for state management in a React application. The integration enables centralized control of Gantt chart data, tasks, and links, providing predictable updates and smooth UI interactions. The setup uses React 19+ and supports TypeScript for enhanced code quality and maintainability.
+This project demonstrates how to integrate the DHTMLX React Gantt component with Redux Toolkit for state management in a React application. 
+
+The setup uses React 19+ and supports TypeScript.
+
+**Related tutorial**:
+[https://docs.dhtmlx.com/gantt/integrations/react/state/redux-toolkit/](https://docs.dhtmlx.com/gantt/integrations/react/state/redux-toolkit/)
 
 ## Features:
 
